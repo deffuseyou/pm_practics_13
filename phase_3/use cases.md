@@ -1,5 +1,4 @@
 # USE CASE 1 — Авторизация администратора
-*Источник: use case.pdf* :contentReference[oaicite:0]{index=0}
 
 **Предусловия:**
 - Администратор открыл веб-панель AdminWatch.
